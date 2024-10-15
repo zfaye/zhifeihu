@@ -20,7 +20,7 @@ Publications
 
 - W. Lang, X. Zhang, Y. Chen, T. Chen, **Z. Hu**, and X. Jiang, "A General Reconstruction Framework for Deflectometric Measurement Based on Nonuniform B-Splines," in *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1-11, 2023, Art no. 5015511, doi: [10.1109/TIM.2023.3279466](https://doi.org/10.1109/TIM.2023.3279466).
 ## Patents
-======
+
 - **X. Zhang**, W. Lang, **Z. Hu**, "Catadioptric hybrid form and position integrated deflection measurement method," China patent, CN114234804A, 2022.03.25.
 - **HU ZHIFEI**, GE JUNHUI, DENG WENPING, "Surface segmentation and three-dimensional reconstruction method and device, storage medium and terminal equipment," China patent, CN118261919A, 2024.06.28.
 
