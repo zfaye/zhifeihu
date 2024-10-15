@@ -16,8 +16,7 @@ Publications
 - **Z. Hu**, X. Zhang, W. Lang, Y. Chen, T. Chen, and M. Xu, "Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy," in *IEEE Photonics Journal*, vol. 15, no. 2, pp. 1-7, April 2023, doi: [10.1109/JPHOT.2023.3243736](https://doi.org/10.1109/JPHOT.2023.3243736).  
 
 - W. Lang, X. Zhang, Y. Chen, T. Chen, **Z. Hu**, and X. Jiang, "A General Reconstruction Framework for Deflectometric Measurement Based on Nonuniform B-Splines," in *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1-11, 2023, Art no. 5015511, doi: [10.1109/TIM.2023.3279466](https://doi.org/10.1109/TIM.2023.3279466).
-
-Patents
+## Patents
 ======
 - **X. Zhang**, W. Lang, **Z. Hu**, "Catadioptric hybrid form and position integrated deflection measurement method," China patent, CN114234804A, 2022.03.25.
 - **HU ZHIFEI**, GE JUNHUI, DENG WENPING, "Surface segmentation and three-dimensional reconstruction method and device, storage medium and terminal equipment," China patent, CN118261919A, 2024.06.28.
