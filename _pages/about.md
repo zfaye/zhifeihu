@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 
-I am currently an algorithm engineer（3D vision) at [Speedbot Robotics Co., Ltd.](https://www.speedbot.com/en/home), where I have been developing camera-based vision systems for robotic applications. This role has allowed me to enhance my expertise in programming (C++, MATLAB, Python), robot vision, camera calibration, nonlinear optimization techniques (Gauss-Newton, LM) and sensor fusion.
+About me
+======
+I am currently an algorithm engineer（3D vision) at [Speedbot Robotics Co., Ltd.](https://www.speedbot.com/en/home), where I have been developing camera-based vision systems for robotic applications. This role has allowed me to enhance my expertise in programming (C++, MATLAB, Python), robot vision, camera calibration, nonlinear optimization techniques (Gauss-Newton, LM) and sensor fusion.  
+
+
 Before that, I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of Prof. Min Xu and Prof. Xiangchang Zhang. My master's research focused on precision Optical Measurement and surface Metrology based on Phase-Measuring Deflectometry, where I developed a deflectometric microscope camera for in-situ surface defect measurement and implemented advanced 3D reconstruction algorithms.
 
 Publications
