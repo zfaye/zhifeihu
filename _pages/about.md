@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently an Algorithm engineer at Speedbot Robotics Co., Ltd.[Speedbot](https://www.speedbot.com/en/home) since 2023. Prior to that,  I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of Prof. Min Xu and Prof. Xiangchang Zhang. 
+I am currently an Algorithm engineer at [Speedbot Robotics Co., Ltd.](https://www.speedbot.com/en/home) since 2023. Prior to that,  I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of Prof. Min Xu and Prof. Xiangchang Zhang. 
 
 Publications
 ======
