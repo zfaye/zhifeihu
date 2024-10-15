@@ -18,7 +18,7 @@ Before that, I completed a 3-year MS in Optical Engineering at Fudan University,
 
 
 
-You can find my CV here: [Zhifei Hu's Curriculum Vitae](.../zhifeihu/assets/Curriculum_Vitae.pdf).  
+You can find my CV here: [Zhifei Hu's Curriculum Vitae](../zhifeihu/assets/Curriculum_Vitae.pdf).  
   
 
 
