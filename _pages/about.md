@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-======
+
 I am currently an algorithm engineer（3D vision) at [Speedbot Robotics Co., Ltd.](https://www.speedbot.com/en/home), where I have been developing camera-based vision systems for robotic applications. This role has allowed me to enhance my expertise in programming (C++, MATLAB, Python), robot vision, camera calibration, nonlinear optimization techniques (Gauss-Newton, LM) and sensor fusion.  
 
 
@@ -16,9 +16,13 @@ Before that, I completed a 3-year MS in Optical Engineering at Fudan University,
 
 
 
-You can find my CV here: [Zhifei Hu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhifei Hu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).  
+  
 
-======
+
+
+
+
 Publications
 ======
 - **Z. Hu**, X. Zhang, W. Lang, Y. Chen, T. Chen, and M. Xu, "Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy," in *IEEE Photonics Journal*, vol. 15, no. 2, pp. 1-7, April 2023, doi: [10.1109/JPHOT.2023.3243736](https://doi.org/10.1109/JPHOT.2023.3243736).  
