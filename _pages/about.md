@@ -6,55 +6,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
-\documentclass{article}
-\usepackage{geometry}
-\geometry{a4paper, margin=1in}
-\usepackage{amsmath}
-
-\usepackage{graphicx}
-\usepackage{enumitem} % for customizing itemize
-\usepackage{multicol} % for two-column layout
-\usepackage{hyperref}
 
 
 I am currently an Algorithm engineer at Speedbot Robotics Co., Ltd.[Speedbot](https://www.speedbot.com/en/home) since 2023. Prior to that,  I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of Prof. Min Xu and Prof. Xiangchang Zhang. 
 
-Publication
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Z. Hu**, X. Zhang, W. Lang, Y. Chen, T. Chen, and M. Xu, "Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy," in *IEEE Photonics Journal*, vol. 15, no. 2, pp. 1-7, April 2023, doi: [10.1109/JPHOT.2023.3243736](https://doi.org/10.1109/JPHOT.2023.3243736).  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- W. Lang, X. Zhang, Y. Chen, T. Chen, **Z. Hu**, and X. Jiang, "A General Reconstruction Framework for Deflectometric Measurement Based on Nonuniform B-Splines," in *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1-11, 2023, Art no. 5015511, doi: [10.1109/TIM.2023.3279466](https://doi.org/10.1109/TIM.2023.3279466).
 
-Project
+
+Projects
 ======
-\vspace{-0.5em}\hrule\vspace{0.7em}
-\begin{itemize}[left=0pt, itemsep=0.1em, parsep=0em]
-    \item \textbf{Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy}[MATLAB] \hfill June 2020 -- June 2023 \\
-    \textit{Lead Researcher} \\
-    \vspace{-1.5em}
-    \begin{itemize}[left=0pt, itemsep=0.05em, parsep=0em]
-        \item[-] \textbf{Objective:} Implement a deflectometric microscope system from 0 to 1 to semiquantitatively measure surface defects for in-situ applications. 
-        \item[-] \textbf{Methods:}
-            \begin{itemize}[left=0pt, itemsep=0.05em, parsep=0em]
-                \item[-] Designed a pinhole camera model to release precise focusing requirements.
-                \item[-] Achieved defect reconstruction using a path integral reconstruction algorithm combined with sparse representation.
-            \end{itemize}
-        \item[-] \textbf{Outcome:} Research findings were published in the IEEE Photonics Journal.
-    \end{itemize}
-\end{itemize}
-\begin{itemize}[left=0pt, itemsep=0.05em, parsep=0em]
- \item \href{https://www.youtube.com/watch?v=yxMVsodcq9g}{PaintPro Paint Defect Detection System }[OpenCV][C++]\hfill June 2023 -- July 2024 \\
-    \vspace{-1.5em}
-    \begin{itemize}[left=0pt, itemsep=0.05em, parsep=0em]
-        \item[-] \textbf{Objective:} Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture mirror-like and quasi-mirror-like images.
-        \item[-] \textbf{Methods:}
-            \begin{itemize}[left=0pt, itemsep=0.05em, parsep=0em]
-                \item[-] Developed a geometric calibration model using a markerless flat mirror and the Levenberg–Marquardt algorithm.
-                \item[-] Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
-            \end{itemize}
-        \item[-] \textbf{Outcome:} The project was put into production at the Geely plant in Hunan, China.
-    \end{itemize}
-\end{itemize}
+- **Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy** [MATLAB]  
+  _Lead Researcher_  
+  June 2020 – June 2023  
+  - **Objective:** Implement a deflectometric microscope system from scratch to semiquantitatively measure surface defects for in-situ applications.
+  - **Methods:**  
+    - Designed a pinhole camera model to ease precise focusing requirements.
+    - Achieved defect reconstruction using a path integral reconstruction algorithm combined with sparse representation.
+  - **Outcome:** Research findings were published in the IEEE Photonics Journal.
+
+- [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [OpenCV][C++]  
+  June 2023 – July 2024  
+  - **Objective:** Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture mirror-like and quasi-mirror-like surfaces.
+  - **Methods:**  
+    - Developed a geometric calibration model using a markerless flat mirror and the Levenberg–Marquardt algorithm.
+    - Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
+  - **Outcome:** The project was put into production at the Geely plant in Hunan, China.
 
 Site-wide configuration
 ------
