@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wechat.jpg"
+  avatar           : "wechat.png"
   name             : "Zhifei Hu"
   pronouns         : # example: "she/her"  
   bio              :  Robot Vision System | Multiview Stereo | Cameras
