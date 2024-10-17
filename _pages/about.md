@@ -52,6 +52,10 @@ Projects
   - **Methods:**  
     - Developed a geometric calibration model using a markerless flat mirror and the Levenberg–Marquardt algorithm.
     - Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
-  - **Outcome:** The project was put into production at the Geely plant in Hunan, China.
+  - **Outcome:** The project was put into production at the Geely plant in Hunan, China.  
+  
 
+
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=GEhdGIbOG32h2Q8w37luwT2_t4cxcme5XAyihcbA5Ns&cl=ffffff&w=a"></script>
 
