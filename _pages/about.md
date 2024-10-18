@@ -37,7 +37,7 @@ Publications
 
 - X. Zhang, W. Lang, **Z. Hu**, "Catadioptric hybrid form and position integrated deflection measurement method," China patent, CN114234804A, 2022.03.25.
 - **HU ZHIFEI**, GE JUNHUI, DENG WENPING, "Surface segmentation and three-dimensional reconstruction method and device, storage medium and terminal equipment," China patent, CN118261919A, 2024.06.28.  
-- GE JUNHUI;**HU ZHIFEI**; YANG DONG; DENG WENPING” High-brightness surface defect detection device“, China patent, CN221650224 (U), 2024. 09. 03.
+- GE JUNHUI; **HU ZHIFEI**; YANG DONG; DENG WENPING," High-brightness surface defect detection device“, China patent, CN221650224 (U), 2024. 09. 03.
 
 
 Projects
