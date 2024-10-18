@@ -40,7 +40,7 @@ Publications
 
 Projects
 ======
-- **Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy** [MATLAB]  
+- **Fast Measurement of Surface Topographies Using a Phase-Measuring Deflectometric Microscopy** [MATLAB][SolidWorks]  
   _Lead Researcher_  
   June 2020 – June 2023  
   - **Objective:** Implement a deflectometric microscope system from scratch to semiquantitatively measure surface defects for in-situ applications.
@@ -49,14 +49,24 @@ Projects
     - Achieved defect reconstruction using a path integral reconstruction algorithm combined with sparse representation.
   - **Outcome:** Research findings were published in the IEEE Photonics Journal.
 
-- [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [OpenCV][C++]  
+- [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [C++][OpenCV] 
+_core Researcher_ 
   June 2023 – July 2024  
   - **Objective:** Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture mirror-like and quasi-mirror-like surfaces.
   - **Methods:**  
     - Developed a geometric calibration model using a markerless flat mirror and the Levenberg–Marquardt algorithm.
     - Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
   - **Outcome:** The project was put into production at the Geely plant in Hunan, China.  
-  
+     
+- **Wearable Bionic Arm System Based on Carbon Nanotube Flexible Resistance Sensors** [C Language][Zigbee] 
+_Lead Researcher_
+ May 2018 – Oct 2018 
+ - **Objective:** Develop a wearable flexible resistance glove system to control robotic fingers in real-time through imitation.
+ - **Methods:**  
+   - Programmed the microcontroller independently to manage sensor data acquisition and filtering.
+   - Implemented wireless data packet transmission using the Zigbee protocol stack.
+ - **Outcome:**  Awarded First Prize in the Hubei Provincial College Students’ Physics Experiment Competition.
+
 
 
 
