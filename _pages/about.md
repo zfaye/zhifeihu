@@ -49,8 +49,8 @@ Projects
     - Achieved defect reconstruction using a path integral reconstruction algorithm combined with sparse representation.
   - **Outcome:** Research findings were published in the IEEE Photonics Journal.
 
-- [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [C++][OpenCV] 
-_core Researcher_ 
+- [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [C++][OpenCV]   
+  _core Researcher_ 
   June 2023 – July 2024  
   - **Objective:** Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture images of mirror-like and quasi-mirror-like surfaces.
   - **Methods:**  
