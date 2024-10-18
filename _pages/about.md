@@ -52,8 +52,9 @@ Projects
 - [PaintPro Paint Defect Detection System](https://www.youtube.com/watch?v=yxMVsodcq9g) [C++][OpenCV] 
 _core Researcher_ 
   June 2023 – July 2024  
-  - **Objective:** Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture mirror-like and quasi-mirror-like surfaces.
+  - **Objective:** Develop a 3D camera based on Phase Measuring Deflectometry, specifically designed to capture images of mirror-like and quasi-mirror-like surfaces.
   - **Methods:**  
+    - Performed optical element selection and 3D camera prototyping.
     - Developed a geometric calibration model using a markerless flat mirror and the Levenberg–Marquardt algorithm.
     - Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
   - **Outcome:** The project was put into production at the Geely plant in Hunan, China.  
