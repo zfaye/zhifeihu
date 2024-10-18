@@ -14,7 +14,7 @@ redirect_from:
 I am currently an algorithm engineer（3D vision) at [Speedbot Robotics Co., Ltd.](https://www.speedbot.com/en/home), where I have been developing camera-based vision systems for robotic applications. This role has allowed me to enhance my expertise in programming (C++, MATLAB, Python), robot vision, camera calibration, nonlinear optimization techniques (Gauss-Newton, LM) and sensor fusion.  
 
 
-Before that, I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of [Prof. Min Xu](https://optics.fudan.edu.cn/29/bb/c39763a469435/page.htm) and [Prof. Xiangchao Zhang](https://scholar.google.com/citations?user=Wzza51sAAAAJ&hl). My master's research focused on precision Optical Measurement and surface Metrology based on Phase-Measuring Deflectometry, where I developed a deflectometric microscope camera for in-situ surface defect measurement and implemented advanced 3D reconstruction algorithms.  
+Before that, I completed a 3-year MS in Optical Engineering at Fudan University, Shanghai, China, under the supervision of [Prof. Min Xu](https://www.researchgate.net/profile/Min-Xu-47) and [Prof. Xiangchao Zhang](https://scholar.google.com/citations?user=Wzza51sAAAAJ&hl). My master's research focused on precision Optical Measurement and surface Metrology based on Phase-Measuring Deflectometry, where I developed a deflectometric microscope camera for in-situ surface defect measurement and implemented advanced 3D reconstruction algorithms.  
 
 I received my Bachelor's degree from Wuhan University of Technology in 2020. My GPA is 3.84/4 (Linear Algebra: 95.8, Advanced Mathematics I: 90.2, Advanced Mathematics II: 96.5, Probability Theory & Mathematical Statistics: 85.9).
 
