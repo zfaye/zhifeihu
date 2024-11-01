@@ -72,11 +72,11 @@ Projects
 - **Wearable Bionic Arm System Based on Carbon Nanotube Flexible Resistance Sensors** [C Language][Zigbee] 
 _Core Researcher_
  May 2018 – Oct 2018 
- - **Objective:**  Develop a wearable flexible resistance glove system to control robotic fingers in real time through imitation.
+ - **Objective:**  Develop a wearable flexible resistance glove system to use imitation to control robotic fingers in real time.
 - **Methods:** 
    - Programmed the microcontroller independently to manage sensor data acquisition and filtering.
    - Implemented wireless data packet transmission using the Zigbee protocol stack.
-  - **Outcome:**  Awarded First Prize in the Hubei Provincial College Students’ Physics Experiment Competition.
+- **Outcome:**  Awarded First Prize in the Hubei Provincial College Students’ Physics Experiment Competition.
 
 
 
