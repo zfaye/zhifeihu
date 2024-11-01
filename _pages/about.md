@@ -61,6 +61,14 @@ Projects
     - Implemented paint surface reconstruction through Multiple View Geometry and the Particle Swarm Optimization (PSO) algorithm.
   - **Outcome:** The project was put into production at the Geely plant in Hunan, China.  
      
+- **Curriculum Project: Car License Plates Detection based on a Light CNN** [Python][PyTorch]  *Sept 2020 – Dec 2020*
+
+  - **Objective:** Built a lightweight CNN model for detecting car license plates, focusing on accuracy and computational efficiency.
+
+  - **Methods:**
+    - Strengthened foundational knowledge in deep learning, covering gradient descent, backpropagation, and matrix calculus to understand model optimization and convergence.
+    - Applied PyTorch for model implementation, gaining hands-on experience with neural network construction, training workflows, and debugging techniques in Python.
+  
 - **Wearable Bionic Arm System Based on Carbon Nanotube Flexible Resistance Sensors** [C Language][Zigbee] 
 _Core Researcher_
  May 2018 – Oct 2018 
