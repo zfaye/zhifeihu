@@ -76,6 +76,11 @@ _Core Researcher_
    - Implemented wireless data packet transmission using the Zigbee protocol stack.
 - **Outcome:**  Awarded First Prize in the Hubei Provincial College Students’ Physics Experiment Competition.
 
+Services
+======
+
+General Physics at Fudan University     9/2022– 12/2022
+- Teaching Assistant 
 
 
 
